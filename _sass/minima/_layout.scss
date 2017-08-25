@@ -216,7 +216,7 @@ header div a.site-title[href]:hover {
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.25);
 }
 
 
@@ -263,5 +263,9 @@ header div a.site-title[href]:hover {
     @include media-query($on-laptop) {
       @include relative-font-size(1.125);
     }
+  }
+
+  a:hover {
+    color: $grey-color;
   }
 }
