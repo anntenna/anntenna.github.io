@@ -4,6 +4,7 @@ title:  "The four stages of competence"
 date:   2017-08-25 11:21:10 -0700
 categories: learning
 description: "The four stages of competence as experienced by me while learning to climb, and how to apply them while learning a new discipline."
+time: 3 min read
 ---
 
 To learn a new skill, one must go through the **[four stages of competence](https://en.wikipedia.org/wiki/Four_stages_of_competence)**. When I came across **[this post on Reddit](https://www.reddit.com/r/todayilearned/comments/6vb66q/til_that_there_are_four_stages_to_learning_a_new/)**, it struck a chord and I knew I had experienced going through these stages before. Here I am, trying to learn new skills to make a living out of, and these are valuable lessons I could use now. 
