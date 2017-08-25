@@ -2,7 +2,7 @@
 layout: post
 title:  "The four stages of competence"
 date:   2017-08-25 11:21:10 -0700
-categories: learning, competence
+categories: learning
 description: "The four stages of competence as experienced by me while learning to climb, and how to apply them while learning a new discipline."
 ---
 
