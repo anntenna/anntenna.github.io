@@ -16,7 +16,8 @@ While the program packs a whole lot of quality information in a short time, it d
 I will be able to present a more holistic review of the program towards the end and talk cogently about its effectiveness in matching fellows with their desired career goals; but for now, I'm just trying to settle into this new pace of life in a new city. My two weeks in San Francisco have the makings of a separate post; however, in the interest of time, I'll keep it short and to the point. In the Bay Area, it is acceptable to ask profound questions to a complete stranger at happy hour - like "What do you want your legacy to be?" or, "If you could learn one skill in an instant, what would it be?". The possibilities of where a serendipitous connection will take you are endless, and there is value in introducing entropy in daily life. 
 
 Thanks to my extremely smart and enterprising friend **[Nishanth](https://twitter.com/n_alapati)**, I came prepared with an open mind, and my personal magic-8 ball (that says YES most of the time). Some resources I found to be extremely useful were: 
-1. **[Funcheap](http://sf.funcheap.com/)**
-2. **[Bed|n|Build](http://bednbuild.com/)**
-3. **[EventBrite](https://www.eventbrite.com/)**
+1. [Funcheap](http://sf.funcheap.com/)
+2. [Bed|n|Build](http://bednbuild.com/)
+3. [EventBrite](https://www.eventbrite.com/)
+
 If you're lucky and wing it on most evenings and weekends, you might meet **[Michael, the coconut guy](https://www.yelp.com/biz/michael-the-coconut-guy-san-francisco)** at Dolores Park, and wait only 40 minutes in line for some delish icecream at BiRite nearby. Even otherwise, a unique experience is guaranteed. I can only look forward to the next 6 weeks here with an open mind and a free schedule, which is slowly turning out to be an impossible task thanks to the fellowship!
