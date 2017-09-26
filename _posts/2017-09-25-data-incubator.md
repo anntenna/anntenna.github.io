@@ -3,7 +3,7 @@ layout: post
 title:  "San Francisco and The Data Incubator"
 date:   2017-09-25 08:21:47 -0700
 categories: learning
-description: "A fellowship at The Data Incubator at San Francisco- fast tracking my way into a career in data science"
+description: "A fellowship at The Data Incubator at San Francisco- fast tracking my way into a career in data science in a unique city among highly motivated, qualified and passionate people."
 time: 3 min read
 ---
 
