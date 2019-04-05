@@ -4,4 +4,5 @@ title: Resume
 permalink: /resume/
 ---
 
-[Anusha's Resume](/assets/resume.pdf)
+<iframe src="/assets/resume.pdf" width="100%" height="100%"></iframe>
+
