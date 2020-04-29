@@ -1,17 +1,27 @@
-**Pudina Rice:**
+---
+layout: post
+title:  "A quick recipe for Pudina rice"
+date:   2017-08-25 11:21:10 -0700
+categories: recipes
+description: "Just recording a recipe from my mom. All in a quarantine day's work. Will update later with photos."
+time: 2 min read
+---
+
+**Pudina(Mint) Rice**
 
 __Things to grind:__
 
-Pudina leaves from 2 bunches of fresh mint
-Coconut - half of a frozen pack should do
-Green chillies - about 4 spicy ones
+* Pudina leaves from 2 bunches of fresh mint
+* Coconut - half of a frozen pack should do
+* Green chillies - about 4 spicy ones
 
 __Things to cook:__
 
-Ginger-garlic paste
+* Ginger-garlic paste
+* Rice - 2 cups
+* Salt to taste
 
-Rice - 2 cups
-Salt to taste
+__Instructions:__
 
 1. Wash the rice thoroughly, soak in water while everything else is being prepared.
 2. Pluck out all the leaves from 2 bunches of mint.
