@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A quick recipe for Pudina rice"
-date:   2017-08-25 11:21:10 -0700
+date:   2020-04-28 17:41:10 -0700
 categories: recipes
 description: "Just recording a recipe from my mom. All in a quarantine day's work. Will update later with photos."
 time: 2 min read
